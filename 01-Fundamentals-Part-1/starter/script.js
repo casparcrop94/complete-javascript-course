@@ -72,7 +72,6 @@
 //     }
 // }
 
-
 // let markHigherBMI = false;
 
 // let mark_mass = 78; //in kg
@@ -107,7 +106,6 @@
 // console.log(markHigherBMI);
 // logBMI(mark_bmi,john_bmi);
 
-
 // // Dolphins & Koalas data 1
 // let dolphins_total_score = 96 + 108 + 89;
 // let dolphins_average_score = dolphins_total_score / 3;
@@ -140,7 +138,7 @@
 //     console.log("Dolphins Win");
 // } else if((koalas_average_score > dolphins_average_score) && (koalas_average_score >= 100)){
 //     console.log("Koalas Win!");
-// } else if((koalas_average_score >= 100 && dolphins_average_score >= 100) && 
+// } else if((koalas_average_score >= 100 && dolphins_average_score >= 100) &&
 //         dolphins_average_score === koalas_average_score
 //     ){
 //     console.log("It's a draw!");
