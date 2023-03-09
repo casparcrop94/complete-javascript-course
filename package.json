@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/casparcrop94/complete-javascript-course/issues"
   },
-  "homepage": "https://github.com/casparcrop94/complete-javascript-course#readme"
+  "homepage": "https://github.com/casparcrop94/complete-javascript-course#readme",
+  "dependencies": {
+    "live-server": "^1.1.0"
+  }
 }
